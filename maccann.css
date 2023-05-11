@@ -238,3 +238,122 @@ input{
 .inp2:hover{
     background-color:rgb(20, 20, 49);
 }
+h3{
+    margin: 3rem 0;
+    text-align: center;
+    font-size: 50px;
+    line-height: 3rem;
+}
+.threeboxs{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 3rem;
+}
+.boxs {
+    border: 1px solid rgba(0, 128, 0, 0.308);
+    height: 500px;
+    width: 400px;
+    padding: 24px;
+    margin: 0rem 10px;
+    text-align: center;
+  }
+  .img {
+    width: 210px;
+    height: 70px;
+    /* margin-right:2rem */
+    /* padding-left: rem; */
+}
+.icon-stars {
+    width: 138px;
+    height: 35px;
+    margin-bottom: 1rem;
+}
+.name{
+    font-size: 20px;
+    margin-bottom: 0.2rem;
+    color: rgb(0,61,19);
+}
+.name2{
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+    color: rgb(101,138,113);text-align: center;
+}
+.main-part{
+    margin: 1.5rem 1rem 0;
+    line-height: 1.5rem;
+}
+h4{
+    margin-top: 10rem;
+    text-align: center;
+    font-size: 60px;
+    padding: 4rem 0 0 0  ;
+}
+#back{
+    background-color: rgb(244,244,245);
+    height: 1550px;
+}
+.threeboxs2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    margin: 0 3rem;
+}
+.boxs2{
+    border: 1px solid #fff;
+    width: 500px;
+    height: 500px;
+    padding: 0.5rem;
+    margin: 6rem 1rem;
+    background-color: #fff;
+}
+.img1{
+    width: 100%;
+    height: 250px;
+    padding: 0.8rem;
+}
+.name3{
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+    color: rgb(0, 128, 0);
+    text-align: center;
+}
+.main-part2{
+    text-align: center;
+    margin: 1rem;
+    line-height: 1.5rem;
+    color: #003d13 ;
+}
+.botton{
+    border:1px solid green;
+    padding: 0.75rem ;
+    width: 250px;
+    /* margin: 0.5rem; */
+    text-align: center;
+    background-color: #003d13;
+    color: #fff;
+    font-size: 20PX ;
+    margin-left: 4rem;
+    margin-top: 2rem;
+}
+.botton:hover{
+    background-color:rgb(20, 20, 49);
+}
+.threeboxs3{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 3rem;
+}
+.botton1{
+    border:1px solid green;
+    padding: 0.75rem ;
+    width: 250px;
+    text-align: center;
+    background-color: #003d13;
+    color: #fff;
+    font-size: 20PX ;
+    margin-left: 4rem;
+    margin-top: 1rem;
+}
+.botton1:hover{
+    background-color:rgb(20, 20, 49);
+}
