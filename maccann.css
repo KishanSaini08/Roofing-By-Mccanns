@@ -285,12 +285,12 @@ h3{
 h4{
     margin-top: 10rem;
     text-align: center;
-    font-size: 60px;
-    padding: 4rem 0 0 0  ;
+    font-size: 50px;
+    padding: 4rem 0 1rem 0  ;
 }
 #back{
     background-color: rgb(244,244,245);
-    height: 1550px;
+    height: 1400px;
 }
 .threeboxs2{
     display: flex;
@@ -303,7 +303,7 @@ h4{
     width: 500px;
     height: 500px;
     padding: 0.5rem;
-    margin: 6rem 1rem;
+    margin: 2rem 1rem;
     background-color: #fff;
 }
 .img1{
@@ -356,4 +356,332 @@ h4{
 }
 .botton1:hover{
     background-color:rgb(20, 20, 49);
+}
+h5{
+  margin: 5rem  0 0 2rem;
+  font-size: 45px;
+  width: 300px;
+  color: rgb(20, 20, 49);
+}
+#para5{
+    font-size: 20px;
+    color: rgb(20, 20, 49);
+    margin: 1rem  0 0 2rem;
+    width: 450px;
+}
+.para5{
+    color: rgb(20, 20, 49);
+    margin: 1rem  0 0 2rem;
+    width: 400px;
+    font-size: 20px;
+
+}
+.right-icon{
+    margin: 1rem 0 0 2rem;
+}
+.icon6{
+    margin-left: 1rem;
+    margin-top: 0.7rem;
+    color: #003d13;
+}
+.right-icon i{
+    font-size: 20px;
+    color: #003d13;
+}
+#flex{
+    display: flex;
+}
+#images{
+    margin-top: 3rem;
+}
+.right-img{
+    width: 200px;
+    height: 80px;
+    margin-left: 4rem;
+}
+.right-img1{
+    width: 150px;
+    height: 120px;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+.right-img2 {
+    width: 212px;
+    height: 105px;
+    margin-left: 5rem;
+}
+.right-img3 {
+    width: 186px;
+    height: 184px;
+    margin-left: 5rem;
+    margin-top:4rem;
+}
+.right-img4{
+    width: 200px;
+    height: 80px;
+    margin-left: 5rem;
+    margin-bottom: 3rem;
+    /* text-align: center; */
+}
+.right-img5{
+    width: 200px;
+    height: 80px;
+    margin-left: 5rem;
+    margin-bottom: 3rem;
+}
+ h6{
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+}
+.qustion{
+    margin-left: 15%;
+    margin-right: 17%;
+}
+.qus1{
+    border: 1px solid;
+    padding: 1rem 0rem 1rem 0.5rem;
+    background-color:rgb(244,244,245);
+} 
+.footer{
+    background-image: url(./images/Homes_Photo_dev_hero-2.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 5rem;
+    /* margin-bottom: 5rem; */
+    position: relative;
+}
+.footer:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:rgb(41,84,44);
+    opacity: 0.8;
+}
+.footer1{
+    display: flex;
+    margin-top: 4rem;
+}
+.footer-left{
+    /* width: 30; */
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: 9rem;
+    color: #fff;
+    position: relative;
+    margin-left: 2rem;
+}
+.footer-left1{
+    margin-top: 1rem;
+    position: relative;
+    color: #fff;
+    width: 50%;
+    margin-left: 2rem;
+    word-spacing: 1px;
+}
+.footer2{
+    position: relative;
+    margin: 4rem 0 0 0;
+    position: relative;
+}
+.footer-right{
+    margin-top: 2rem;
+    position: absolute;
+    color: #000;
+    background-color: #fff;
+    left: -400px;
+    top:79px;
+    width: 260px;
+    text-align: center;
+    padding: 1rem 2rem ;
+    transition: all 1s ease;
+}
+.footer-right:hover{
+    background-color:#003d13;
+    color: #fff;
+}
+.footer-right1 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 6.9rem 0rem 0rem 0rem;
+    color:#fff;
+    width: 260px;
+    border: 2px solid;
+    left: -100px;
+    position: absolute;
+    padding:0.7rem 2rem;
+    transition:all 1s ease;
+    font-size: 20px;
+}
+.footer-right1 i{
+    color: #fff;
+    font-size:20px;
+}
+.footer-right1:hover {
+    color: #fff;
+    background-color:rgb(20, 20, 49);
+}
+/* .last{
+    background-color: blue;
+}
+
+
+
+.logo4{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.end{
+    margin-left: 2rem;
+}
+.end a{
+    color: #fff;
+    padding: 0 0.4rem ;
+} */
+
+.footer-last{
+    background-color:  rgb(20, 20, 49);
+    height: 800px;
+    
+}
+
+.logo2{
+    width: 350px;
+    height: 210px;
+    margin: 4rem 0 0 2rem;
+
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.parag{
+    width: 470px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    color:#fff ;
+}
+
+.logo5{
+    display: flex;
+}
+.logo5 img {
+    width: 203px;
+    height: 178px;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+#foot a{
+    color: #fff;
+    margin-left: 2rem;
+    margin-top: 0.4rem;
+}
+#information{
+    margin-top: 4rem ;
+    border-left: 2px solid  rgb(33, 18, 60);
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+.contect{
+    margin-top: 2rem;
+    margin-left: 3rem;
+    color: #fff;
+    font-size: 25px;
+}
+.contect2{
+    width: 300px;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    color: #fff;
+
+}
+.contect2 i{
+    padding-right: 1rem;
+    color: #003d13;
+}
+.icons{
+    margin-top: 2rem;
+    margin-left: 2.3rem;
+}
+.icons a{
+    padding-left: 0.7rem;
+}
+.fa-brands{
+    color:#003d13;
+    font-size: 28px;
+}
+.featured{
+    margin-top:1rem;
+    margin-left: 3rem;
+    border: 2px solid #FFF;
+    width: 230px;
+    padding: 0.5rem 0.5rem;
+    /* background-color: #fff; */
+    
+}
+.featured img {
+    width: 200px;
+    height: 30px;
+}
+.comp{
+    margin-top: 1rem;
+    margin-left: 3rem;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 100PX;
+}
+.blog a{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    margin-left: 3rem;
+    color:#fff;
+}
+.last-footer{
+    margin-top: 4rem;
+    margin-left:3rem ;
+    border-left: 2px solid rgb(33, 18, 60);
+    margin-bottom: 1rem;
+}
+.get{
+    margin-top: 2.7rem;
+    margin-left: 3rem;
+    color: #fff;
+    font-size: 20px;
+}
+.contect3{
+    margin-top: 2rem;
+    margin-left: 3rem;
+    color: #fff;
+    font-size: 20px;
+}
+.qustion3{
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+    color: #fff;
+}
+.qustion3 a{
+    padding: 0.8rem 0;
+    color: #fff;
+    width: 300px;
+}
+.footer-bottom{
+    background-color: blueviolet;
+    height: 40px;
+    text-align: center;
+    
+    color: #FFF;
+}
+.footer-bottom p {
+   padding-top: 0.7rem;
 }
